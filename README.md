@@ -1,4 +1,4 @@
-# Forward and Inverse Problem: EEG/MEG Simulation (FieldTrip-based Toolbox)
+# Forward and Inverse Problem: EEG/MEG Simulation (Developed FieldTrip-based Toolbox)
 ## Forward Problem:
 ![](ppt/EMEG_FprwardProblem.gif)
 
@@ -26,4 +26,4 @@
 ![](ppt/Diapositive20.PNG)
 
 # How to cite
-* F. Afdideh “Forward and Inverse Problem: EEG/MEG Simulation (FieldTrip-based Toolbox),” to be published.
+* F. Afdideh “Forward and Inverse Problem: EEG/MEG Simulation (Developed FieldTrip-based Toolbox),” to be published.
