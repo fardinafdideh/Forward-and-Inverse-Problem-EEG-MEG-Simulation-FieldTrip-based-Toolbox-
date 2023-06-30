@@ -1,4 +1,6 @@
-# Forward and Inverse Problem: EEG/MEG Simulation (Developed FieldTrip-based Toolbox)
+# EEG/MEG Forward/Inverse Problem Simulation: FieldTrip-based Toolbox
+In this project, the forward problem involves specifying dipole amplitude, position, and orientation by the user, and then presenting them with the resulting EEG and MEG signals. On the other hand, the inverse problem requires the user to specify the number of sensors, number of dipoles, source reconstruction method (LCMV, MNE, Ridge, LASSO, and Grouped LASSO), modality (EEG and MEG), and the type of visualization.
+
 ## Forward Problem:
 ![](ppt/EMEG_FprwardProblem.gif)
 
